@@ -1,0 +1,10 @@
+site_name: Bixby Electric Knowledge Base
+
+theme: material
+
+nav: 
+  - Home: index.md
+
+plugins:
+  - search
+  - mermaid2
